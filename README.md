@@ -1,4 +1,4 @@
-# raspberry-pi
+# Raspberry Pi
 ## Projects, helpful hints, and other documentation.
 ### Purpose
 This repository is for those who plan to demo your Pi projects at the Pi Projects show and tell	on Saturday, Nov 5, 2016 at 10:00 AM.
