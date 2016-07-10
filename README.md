@@ -23,5 +23,5 @@ and we will add it as well as make you a member of the KeyLUG org.
 Lastly be sure to update the PRESENTERS.md with your name, topic, and time estimated for your demo.
 
 ### Any questions?
-Feel free to contact the KeyLUG organizers.
+Feel free to contact the KeyLUG organizers at http://www.meetup.com/KeyLUG/.
 
